@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_contacto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.evoldig.mascotashop.Menu.Contacto">
+
+
+    <include android:id="@+id/miActionBarConta"
+        layout="@layout/actionbar"/>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/til_name"
+        android:layout_below="@id/miActionBarConta">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_name"
+            android:hint="Nombre Completo"
+            android:inputType="textPersonName"
+            android:ems="10"
+            />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/til_email"
+        android:layout_below="@id/til_name">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_email"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:ems="10" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_below="@id/til_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/til_comments"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_comentario"
+            android:hint="Comentario"
+            android:inputType="textMultiLine"
+            android:ems="10" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_envio"
+        android:layout_below="@id/til_comments"
+        android:hint="Enviar Comentario"
+        />
+
+
+</RelativeLayout>

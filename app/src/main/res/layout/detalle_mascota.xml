@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detalle_mascota"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.evoldig.mascotashop.Pojo.DetalleMascota">
+
+    <include android:id="@+id/miActionBar"
+        layout="@layout/actionbar"/>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvMascotasSeleccionadas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/miActionBar"
+        android:paddingTop="20dp">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/miActionBar"
+        android:paddingTop="490dp"
+        android:paddingRight="10dp">
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/mifloatingbutton"
+            android:src="@mipmap/ic_floating_camera"/>
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_acerca_de"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.evoldig.mascotashop.Menu.AcercaDe">
+
+    <include android:id="@+id/miActionBarAcercade"
+        layout="@layout/actionbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_title"
+        android:layout_below="@id/miActionBarAcercade">
+        <TextView
+            android:layout_width= "match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvSetting"
+            android:text="@string/texto_setting"
+            android:textSize="@dimen/nombre_acerca"
+            android:paddingLeft="50dp"
+            android:textColor="@color/colortexttitle"
+            android:paddingTop="20dp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_pic"
+        android:layout_below="@id/ll_title">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/img_bio"
+            android:background="@drawable/mascoticasbio"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="50dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_contenido"
+        android:layout_below="@id/ll_pic">
+        <AutoCompleteTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/acerca_content"
+            android:textAlignment="center"
+            android:textSize="@dimen/text_content"
+            android:layout_marginTop="20dp"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

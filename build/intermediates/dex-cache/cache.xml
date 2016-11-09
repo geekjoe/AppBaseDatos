@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_58ee487809d9c8bd4b00675ee00493b52867766b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_07bb7425438238e734abd4157668467576395d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/mail_221c76f706e2d9fe60f78ee7fb876a95a065d93e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d1a17bbe502dc4e24947ab716a8f93a65846e6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.6.1_233fb4477e17892fdf965ae782611a902af8d930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/activation_7274a88eb235fba51c1b111d4ee837981c1b0c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/libs/CircularImageView-master/gradle/wrapper/gradle-wrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e614e3b2edc63a9cc423437dea087c91962254f5">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/gradle-wrapper_4ca92d7df6539b0f332e678fb27e243827ca3d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f14df0d3a1a13e57830c80e9a1410afc714960ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_8e7e432bf4dbddea4798647fc795f438a93a49a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0e3889aa22c08d4049731237cc2f7c9bde5c0d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f6318052fee52d89246cf73a56015eb80045179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_da0d2fed877685f0521f01b475e4374a2aa9fc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_0127c4dcff375684919aed13cd04337c5ae93417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a6486ee14959eeb8d2b5b6cf81a410e72bf4207b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.mikhaellopez-circularimageview-3.0.2_3cad87d65b067785d9c80b670273eca031af5a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_40b5fca5851d744e3a177b15f01c84c338778698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_d888f0b2fa00b5103398a2efd6a698dd56e65712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f0838e5dde9b4b4d0c4a88878844fb841e40cd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3b2def204e8c0a2f6cfd5d63a007429a4eb72bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f381f5abcf503b34a5ea81bad9cd9db4f3550f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_c1fa268a13d55dae9b6db3fa325b2e46bb3aff66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/additionnal_3dd7e7fd994b9839e241397cafff473fe7282cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_2f195a0d741a6949cb681848a1baa133b12020ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_033472b256f9f0da6c528948d7d58e69fea72976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d8684848839c3e85d7fa8d64b28e7b1b1dfed00d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_23f5e72a82114fbc04e39db6e166c1930811e0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_2fbc86894482a8c1248512602a791435d29f7c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jazocar/Documents/MascotaShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_ac89af7f965e0d2a2965423fb6ebeceda10dd0d9.jar" />
+    </item>
+
+</items>
